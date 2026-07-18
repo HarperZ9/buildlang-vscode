@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/brand/buildlang-vscode-hero.png" alt="Buildlang Vscode: Vs Code Language Support">
+  <img src=".github/assets/zentropy-banner.png" alt="Buildlang Vscode: Vs Code Language Support">
 </p>
 
 # BuildLang for Visual Studio Code
@@ -76,3 +76,7 @@ or execute browser automation.
 ## License
 
 MIT. Copyright (c) 2026 Zain Dana Harper.
+
+---
+
+**[Zentropy Labs](https://github.com/ZentropyLabs-ai)** · order out of entropy. An independent lab building evidence-first tools that leave a re-checkable artifact behind. Built by Zain Dana Harper in Seattle. The full workbench is at [Project Telos](https://harperz9.github.io).
