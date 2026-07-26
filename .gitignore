@@ -10,3 +10,6 @@ dist/
 
 # packaged extension build output
 *.vsix
+
+# Local-only Claude instructions (global standard: never commit)
+CLAUDE.local.md
