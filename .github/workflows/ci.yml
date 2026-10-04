@@ -22,3 +22,9 @@ jobs:
           python -m json.tool syntaxes/buildlang.tmLanguage.json > /dev/null
       - name: Dry-run package
         run: npm pack --dry-run
+  art-receipts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Verify art receipt digests
+        run: python3 scripts/check_art_receipts.py
