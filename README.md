@@ -1,17 +1,19 @@
-<p align="center">
-  <img src=".github/assets/banner.png" alt="Buildlang Vscode: Vs Code Language Support">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarperZ9/buildlang-vscode/main/docs/art/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/HarperZ9/buildlang-vscode/main/docs/art/hero-light.svg" alt="buildlang-vscode: Syntax highlighting for BuildLang .bld files in VS Code. A fine lattice of lines bulges outward around a bright core, as if seen through a lens, inside a ring." width="100%">
+</picture>
 
-# BuildLang for Visual Studio Code
+# buildlang-vscode
 
-> Syntax highlighting and editor configuration for the BuildLang effects-oriented systems language.
+Syntax highlighting for BuildLang .bld files in VS Code.
 
-[![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![vscode](https://img.shields.io/badge/vscode-%5E1.70.0-blue.svg)
-![version](https://img.shields.io/badge/version-0.1.0-informational.svg)
+```
+code --install-extension buildlang-0.1.0.vsix
+```
+
+[![version: 0.1.0](https://img.shields.io/badge/version-0.1.0-e6e1d6?style=flat-square&labelColor=1a1712)](https://github.com/HarperZ9/buildlang-vscode/releases/latest)
 [![CI](https://github.com/HarperZ9/buildlang-vscode/actions/workflows/ci.yml/badge.svg)](https://github.com/HarperZ9/buildlang-vscode/actions/workflows/ci.yml)
-![deps: none](https://img.shields.io/badge/deps-none-success.svg)
-[![part of: Build ecosystem](https://img.shields.io/badge/part_of-Build_ecosystem-00b3a4.svg)](https://github.com/HarperZ9/build-universe)
+[![license](https://img.shields.io/badge/license-MIT-e6e1d6?style=flat-square&labelColor=1a1712)](https://github.com/HarperZ9/buildlang-vscode/blob/main/LICENSE)
 
 Syntax highlighting and editor configuration for
 **[BuildLang](https://github.com/HarperZ9/buildlang)**, an effects-oriented
