@@ -44,7 +44,7 @@ fn main() ~ Console {
 
 ## Install
 
-From the Marketplace: **View -> Extensions -> search "BuildLang"**, click Install.
+From the Marketplace: **View -> Extensions -> search "QuantaLang"**, click Install. The [Marketplace listing](https://marketplace.visualstudio.com/items?itemName=HarperZ9.quantalang) still carries the earlier name.
 
 From `.vsix` directly:
 
